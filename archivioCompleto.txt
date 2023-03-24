@@ -1,0 +1,11 @@
+1/titolo1/1/2022-01-01/autore1/genere1
+2/titolo2/2/2023-01-02/autore2/genere2
+3/titolo3/3/2022-01-03/autore3/genere3
+4/titolo4/4/2025-01-04/autore4/genere4
+5/titolo5/5/2022-01-05/autore5/genere5
+9/titoloriv1/1/2022-02-01/SEMESTRALE
+10/titoloriv2/2/2022-02-02/MENSILE
+11/titoloriv3/3/2024-02-03/SEMESTRALE
+12/titoloriv4/4/2022-02-04/SETTIMANALE
+13/titoloriv5/5/2022-02-05/MENSILE
+14/titoloriv6/6/2026-02-06/SEMESTRALE
