@@ -204,7 +204,7 @@ public class Main {
             File file = new File("archivioCompleto.txt");
             String fileInput = FileUtils.readFileToString(file, "UTF-8");
             System.out.println(fileInput.toString());
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
